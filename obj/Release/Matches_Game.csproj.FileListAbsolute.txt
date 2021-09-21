@@ -1,0 +1,6 @@
+D:\Matches_Game\bin\Release\Matches_Game.exe
+D:\Matches_Game\bin\Release\Matches_Game.pdb
+D:\Matches_Game\obj\Release\Matches_Game.csprojAssemblyReference.cache
+D:\Matches_Game\obj\Release\Matches_Game.csproj.CoreCompileInputs.cache
+D:\Matches_Game\obj\Release\Matches_Game.exe
+D:\Matches_Game\obj\Release\Matches_Game.pdb
